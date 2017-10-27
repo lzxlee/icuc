@@ -6,7 +6,7 @@ Feature: inputting parameters into the Zernike equation
 
 Scenario: manually inputting Zernike equation parameters
   When I go to "the home page"
-  And I click "Input Zernike's parameters"
+  And I click "enter manually"
   And I press "Compute!"
   Then I should see "Zernike equation successfully computed!"
 

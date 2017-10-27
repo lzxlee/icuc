@@ -1,55 +1,48 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/ubuntu/workspace/optometry_project/app/controllers/zernikes_controller.rb": [
+      "/home/ubuntu/workspace/icuc/app/controllers/zernikes_controller.rb": [
         1,
         null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        null,
-        null,
-        1,
         1,
         null,
         null,
         null,
         1,
-        1,
-        1,
-        1,
         null,
         null,
         1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
       ],
-      "/home/ubuntu/workspace/optometry_project/app/controllers/application_controller.rb": [
+      "/home/ubuntu/workspace/icuc/app/controllers/application_controller.rb": [
         1,
         null,
         null,
         1,
         null
       ],
-      "/home/ubuntu/workspace/optometry_project/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/icuc/app/helpers/application_helper.rb": [
         1,
-        null
-      ],
-      "/home/ubuntu/workspace/optometry_project/app/models/zernike.rb": [
-        1,
-        1,
-        1,
-        1,
-        65,
-        null,
-        1,
-        null,
         null
       ]
     },
-    "timestamp": 1508641261
+    "timestamp": 1509136247
   }
 }
